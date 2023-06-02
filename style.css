@@ -3,6 +3,6 @@ width: 250px!important;
 height: 250x!important;
 }
 .todoshomens{
-    display: grid;
+    display:grid;
     grid-template-columns: 20% 20% 20% 20% 20%;
 }
